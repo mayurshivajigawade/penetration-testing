@@ -1,4 +1,4 @@
-# Reconnaissance
+#  Reconnaissance
 
 Reconnaissance is the initial information-gathering phase of the SecureLab web application penetration test.
 
