@@ -1,6 +1,9 @@
 # Burp Suite
 
 Burp Suite was used to intercept, inspect, analyze, replay, and manually modify HTTP traffic for the authorized SecureLab web application.
+#### Home Page Request
+
+![Home Page Request](screenshots/homepage-request.png)
 
 ## Testing Performed
 
@@ -20,7 +23,7 @@ Observed traffic was analyzed for:
 
 #### Evidence
 
-![Burp HTTP History](screenshots/01-burp-http-history.png)
+![Burp HTTP History](screenshots/http-history.png)
 
 ---
 
@@ -37,7 +40,7 @@ Burp Repeater was used to:
 
 #### Evidence
 
-![Burp Repeater](screenshots/02-burp-repeater.png)
+![Burp Repeater](screenshots/login-response.png)
 
 ---
 
